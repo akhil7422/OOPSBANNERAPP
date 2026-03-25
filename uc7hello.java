@@ -1,4 +1,4 @@
-public class uc6hello {
+public class uc7hello {
     public static void main(String[] args) {
 
         StringBuilder nameBuilder = new StringBuilder();
